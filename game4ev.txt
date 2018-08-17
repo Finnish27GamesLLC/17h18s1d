@@ -1,0 +1,413 @@
+the most favorable player responses
+
+
+
+               player cards are 10 and 10 dealer card is 10 
+                  given the user input deck composition,
+                       here are the dealer finish,
+     and player win minus loss expectations for best stand strategy,
+  double down, surrender, split and insurance options where applicable.
+ 
+      17      18      19      20      21      bust    AJ    
+  10  12.087  11.921  12.115  30.324   3.979  21.410   8.163 
+total hands accounted for are 100.000% of all possible
+19/A8 stand strategy yields a win minus loss expectation of 0.4539
+double down strategy yields a win minus loss expectation of-1.6189
+10 10 split strategy yields a win minus loss expectation of-0.3857
+
+19/A8 stand is found to be the optimal strategy. 
+
+               player cards are 10 and 10 dealer card is 9 
+                  given the user input deck composition,
+                       here are the dealer finish,
+     and player win minus loss expectations for best stand strategy,
+  double down, surrender, split and insurance options where applicable.
+ 
+      17      18      19      20      21      bust   
+   9  12.912  11.049  33.344  12.953   6.325  23.417 
+total hands accounted for are 100.000% of all possible
+19/A8 stand strategy yields a win minus loss expectation of 0.7440
+double down strategy yields a win minus loss expectation of-1.6841
+10 10 split strategy yields a win minus loss expectation of-0.2639
+
+19/A8 stand is found to be the optimal strategy. 
+
+               player cards are 10 and 10 dealer card is 8 
+                  given the user input deck composition,
+                       here are the dealer finish,
+     and player win minus loss expectations for best stand strategy,
+  double down, surrender, split and insurance options where applicable.
+ 
+      17      18      19      20      21      bust   
+   8  13.898  33.964  13.746   7.117   7.279  23.996 
+total hands accounted for are 100.000% of all possible
+19/A8 stand strategy yields a win minus loss expectation of 0.7833
+double down strategy yields a win minus loss expectation of-1.6855
+10 10 split strategy yields a win minus loss expectation of 0.0065
+
+19/A8 stand is found to be the optimal strategy. 
+
+               player cards are 10 and 10 dealer card is 7 
+                  given the user input deck composition,
+                       here are the dealer finish,
+     and player win minus loss expectations for best stand strategy,
+  double down, surrender, split and insurance options where applicable.
+ 
+      17      18      19      20      21      bust   
+   7  34.995  14.753   8.113   8.282   7.625  26.232 
+total hands accounted for are 100.000% of all possible
+19/A8 stand strategy yields a win minus loss expectation of 0.7647
+double down strategy yields a win minus loss expectation of-1.6861
+10 10 split strategy yields a win minus loss expectation of 0.2507
+
+19/A8 stand is found to be the optimal strategy. 
+
+               player cards are 10 and 10 dealer card is 6 
+                  given the user input deck composition,
+                       here are the dealer finish,
+     and player win minus loss expectations for best stand strategy,
+  double down, surrender, split and insurance options where applicable.
+ 
+      17      18      19      20      21      bust   
+   6  12.008  11.759  12.002  11.289  10.940  42.001 
+total hands accounted for are 100.000% of all possible
+19/A8 stand strategy yields a win minus loss expectation of 0.6683
+double down strategy yields a win minus loss expectation of-1.6913
+10 10 split strategy yields a win minus loss expectation of 0.3664
+
+19/A8 stand is found to be the optimal strategy. 
+
+               player cards are 10 and 10 dealer card is 5 
+                  given the user input deck composition,
+                       here are the dealer finish,
+     and player win minus loss expectations for best stand strategy,
+  double down, surrender, split and insurance options where applicable.
+ 
+      17      18      19      20      21      bust   
+   5  12.046  12.829  12.122  10.941  10.939  41.123 
+total hands accounted for are 100.000% of all possible
+19/A8 stand strategy yields a win minus loss expectation of 0.6718
+double down strategy yields a win minus loss expectation of-1.6912
+10 10 split strategy yields a win minus loss expectation of 0.3457
+
+19/A8 stand is found to be the optimal strategy. 
+
+               player cards are 10 and 10 dealer card is 4 
+                  given the user input deck composition,
+                       here are the dealer finish,
+     and player win minus loss expectations for best stand strategy,
+  double down, surrender, split and insurance options where applicable.
+ 
+      17      18      19      20      21      bust   
+   4  12.657  12.061  12.571  12.121  11.928  38.662 
+total hands accounted for are 100.000% of all possible
+19/A8 stand strategy yields a win minus loss expectation of 0.6402
+double down strategy yields a win minus loss expectation of-1.6927
+10 10 split strategy yields a win minus loss expectation of 0.2375
+
+19/A8 stand is found to be the optimal strategy. 
+
+               player cards are 10 and 10 dealer card is 3 
+                  given the user input deck composition,
+                       here are the dealer finish,
+     and player win minus loss expectations for best stand strategy,
+  double down, surrender, split and insurance options where applicable.
+ 
+      17      18      19      20      21      bust   
+   3  12.735  13.661  12.889  12.771  12.003  35.940 
+total hands accounted for are 100.000% of all possible
+19/A8 stand strategy yields a win minus loss expectation of 0.6322
+double down strategy yields a win minus loss expectation of-1.6928
+10 10 split strategy yields a win minus loss expectation of 0.1382
+
+19/A8 stand is found to be the optimal strategy. 
+
+               player cards are 10 and 10 dealer card is 2 
+                  given the user input deck composition,
+                       here are the dealer finish,
+     and player win minus loss expectations for best stand strategy,
+  double down, surrender, split and insurance options where applicable.
+ 
+      17      18      19      20      21      bust   
+   2  13.355  13.764  13.728  12.900  12.453  33.799 
+total hands accounted for are 100.000% of all possible
+19/A8 stand strategy yields a win minus loss expectation of 0.6219
+double down strategy yields a win minus loss expectation of-1.6935
+10 10 split strategy yields a win minus loss expectation of 0.0548
+
+19/A8 stand is found to be the optimal strategy. 
+
+               player cards are 10 and 10 dealer card is 1 
+                  given the user input deck composition,
+                       here are the dealer finish,
+     and player win minus loss expectations for best stand strategy,
+  double down, surrender, split and insurance options where applicable.
+ 
+      17      18      19      20      21      bust    AJ    
+   1   5.630  14.932  14.999  15.240   6.894  13.733  28.571 
+total hands accounted for are 100.000% of all possible
+19/A8 stand strategy yields a win minus loss expectation of 0.1383
+double down strategy yields a win minus loss expectation of-1.5491
+10 10 split strategy yields a win minus loss expectation of-0.6400
+
+19/A8 stand is found to be the optimal strategy. 
+
+               player cards are 9 and 10 dealer card is 10 
+                  given the user input deck composition,
+                       here are the dealer finish,
+     and player win minus loss expectations for best stand strategy,
+  double down, surrender, split and insurance options where applicable.
+ 
+      17      18      19      20      21      bust    AJ    
+  10  12.087  11.921  10.075  32.365   3.809  21.580   8.163 
+total hands accounted for are 100.000% of all possible
+19/A8 stand strategy yields a win minus loss expectation of 0.0125
+double down strategy yields a win minus loss expectation of-1.3858
+
+19/A8 stand is found to be the optimal strategy. 
+
+               player cards are 9 and 10 dealer card is 9 
+                  given the user input deck composition,
+                       here are the dealer finish,
+     and player win minus loss expectations for best stand strategy,
+  double down, surrender, split and insurance options where applicable.
+ 
+      17      18      19      20      21      bust   
+   9  12.912   9.008  35.385  12.783   6.310  23.601 
+total hands accounted for are 100.000% of all possible
+19/A8 stand strategy yields a win minus loss expectation of 0.2643
+double down strategy yields a win minus loss expectation of-1.3956
+
+19/A8 stand is found to be the optimal strategy. 
+
+               player cards are 9 and 10 dealer card is 8 
+                  given the user input deck composition,
+                       here are the dealer finish,
+     and player win minus loss expectations for best stand strategy,
+  double down, surrender, split and insurance options where applicable.
+ 
+      17      18      19      20      21      bust   
+   8  11.858  36.005  13.576   7.117   7.254  24.191 
+total hands accounted for are 100.000% of all possible
+19/A8 stand strategy yields a win minus loss expectation of 0.5768
+double down strategy yields a win minus loss expectation of-1.3947
+
+19/A8 stand is found to be the optimal strategy. 
+
+               player cards are 9 and 10 dealer card is 7 
+                  given the user input deck composition,
+                       here are the dealer finish,
+     and player win minus loss expectations for best stand strategy,
+  double down, surrender, split and insurance options where applicable.
+ 
+      17      18      19      20      21      bust   
+   7  36.866  14.413   7.943   8.101   7.422  25.256 
+total hands accounted for are 100.000% of all possible
+19/A8 stand strategy yields a win minus loss expectation of 0.6101
+double down strategy yields a win minus loss expectation of-1.3971
+
+19/A8 stand is found to be the optimal strategy. 
+
+               player cards are 9 and 10 dealer card is 6 
+                  given the user input deck composition,
+                       here are the dealer finish,
+     and player win minus loss expectations for best stand strategy,
+  double down, surrender, split and insurance options where applicable.
+ 
+      17      18      19      20      21      bust   
+   6  11.986  11.730  11.963  11.242  10.954  42.125 
+total hands accounted for are 100.000% of all possible
+19/A8 stand strategy yields a win minus loss expectation of 0.4365
+double down strategy yields a win minus loss expectation of-1.4192
+
+19/A8 stand is found to be the optimal strategy. 
+
+               player cards are 9 and 10 dealer card is 5 
+                  given the user input deck composition,
+                       here are the dealer finish,
+     and player win minus loss expectations for best stand strategy,
+  double down, surrender, split and insurance options where applicable.
+ 
+      17      18      19      20      21      bust   
+   5  12.019  12.794  12.157  10.820  10.861  41.349 
+total hands accounted for are 100.000% of all possible
+19/A8 stand strategy yields a win minus loss expectation of 0.4448
+double down strategy yields a win minus loss expectation of-1.4177
+
+19/A8 stand is found to be the optimal strategy. 
+
+               player cards are 9 and 10 dealer card is 4 
+                  given the user input deck composition,
+                       here are the dealer finish,
+     and player win minus loss expectations for best stand strategy,
+  double down, surrender, split and insurance options where applicable.
+ 
+      17      18      19      20      21      bust   
+   4  12.732  11.923  12.539  12.065  11.839  38.903 
+total hands accounted for are 100.000% of all possible
+19/A8 stand strategy yields a win minus loss expectation of 0.3965
+double down strategy yields a win minus loss expectation of-1.4242
+
+19/A8 stand is found to be the optimal strategy. 
+
+               player cards are 9 and 10 dealer card is 3 
+                  given the user input deck composition,
+                       here are the dealer finish,
+     and player win minus loss expectations for best stand strategy,
+  double down, surrender, split and insurance options where applicable.
+ 
+      17      18      19      20      21      bust   
+   3  12.706  13.614  12.831  12.727  11.986  36.135 
+total hands accounted for are 100.000% of all possible
+19/A8 stand strategy yields a win minus loss expectation of 0.3774
+double down strategy yields a win minus loss expectation of-1.4259
+
+19/A8 stand is found to be the optimal strategy. 
+
+               player cards are 9 and 10 dealer card is 2 
+                  given the user input deck composition,
+                       here are the dealer finish,
+     and player win minus loss expectations for best stand strategy,
+  double down, surrender, split and insurance options where applicable.
+ 
+      17      18      19      20      21      bust   
+   2  13.342  13.698  13.679  12.914  11.435  34.933 
+total hands accounted for are 100.000% of all possible
+19/A8 stand strategy yields a win minus loss expectation of 0.3762
+double down strategy yields a win minus loss expectation of-1.5002
+
+19/A8 stand is found to be the optimal strategy. 
+
+               player cards are 9 and 10 dealer card is 1 
+                  given the user input deck composition,
+                       here are the dealer finish,
+     and player win minus loss expectations for best stand strategy,
+  double down, surrender, split and insurance options where applicable.
+ 
+      17      18      19      20      21      bust    AJ    
+   1   5.855  14.925  14.984  13.192   6.631  13.801  30.612 
+total hands accounted for are 100.000% of all possible
+19/A8 stand strategy yields a win minus loss expectation of-0.1585
+double down strategy yields a win minus loss expectation of-1.3437
+
+19/A8 stand is found to be the optimal strategy. 
+
+               player cards are 9 and 9 dealer card is 10 
+                  given the user input deck composition,
+                       here are the dealer finish,
+     and player win minus loss expectations for best stand strategy,
+  double down, surrender, split and insurance options where applicable.
+ 
+      17      18      19      20      21      bust    AJ    
+  10  12.087  11.921   8.034  34.406   3.639  21.750   8.163 
+total hands accounted for are 100.000% of all possible
+18/A7 stand strategy yields a win minus loss expectation of-0.2040
+double down strategy yields a win minus loss expectation of-1.2286
+ 9  9 split strategy yields a win minus loss expectation of-0.3368
+
+18/A7 stand is found to be the optimal strategy. 
+
+               player cards are 9 and 9 dealer card is 9 
+                  given the user input deck composition,
+                       here are the dealer finish,
+     and player win minus loss expectations for best stand strategy,
+  double down, surrender, split and insurance options where applicable.
+ 
+      17      18      19      20      21      bust   
+   9  12.912   6.968  37.426  12.613   6.296  23.786 
+total hands accounted for are 100.000% of all possible
+18/A7 stand strategy yields a win minus loss expectation of-0.1964
+double down strategy yields a win minus loss expectation of-1.1895
+ 9  9 split strategy yields a win minus loss expectation of-0.1085
+
+ 9  9 split is found to be the optimal strategy. 
+
+               player cards are 9 and 9 dealer card is 8 
+                  given the user input deck composition,
+                       here are the dealer finish,
+     and player win minus loss expectations for best stand strategy,
+  double down, surrender, split and insurance options where applicable.
+ 
+      17      18      19      20      21      bust   
+   8   9.817  38.045  13.406   7.117   7.229  24.386 
+total hands accounted for are 100.000% of all possible
+18/A7 stand strategy yields a win minus loss expectation of 0.0645
+double down strategy yields a win minus loss expectation of-1.1325
+ 9  9 split strategy yields a win minus loss expectation of 0.1910
+
+ 9  9 split is found to be the optimal strategy. 
+
+               player cards are 9 and 9 dealer card is 7 
+                  given the user input deck composition,
+                       here are the dealer finish,
+     and player win minus loss expectations for best stand strategy,
+  double down, surrender, split and insurance options where applicable.
+ 
+      17      18      19      20      21      bust   
+   7  38.737  14.073   7.772   7.920   7.218  24.280 
+total hands accounted for are 100.000% of all possible
+18/A7 stand strategy yields a win minus loss expectation of 0.4011
+double down strategy yields a win minus loss expectation of-1.1321
+ 9  9 split strategy yields a win minus loss expectation of 0.3347
+
+18/A7 stand is found to be the optimal strategy. 
+
+               player cards are 9 and 9 dealer card is 6 
+                  given the user input deck composition,
+                       here are the dealer finish,
+     and player win minus loss expectations for best stand strategy,
+  double down, surrender, split and insurance options where applicable.
+ 
+      17      18      19      20      21      bust   
+   6  11.964  11.701  11.923  11.195  10.967  42.250 
+total hands accounted for are 100.000% of all possible
+18/A7 stand strategy yields a win minus loss expectation of 0.2013
+double down strategy yields a win minus loss expectation of-1.1857
+ 9  9 split strategy yields a win minus loss expectation of 0.3525
+
+ 9  9 split is found to be the optimal strategy. 
+
+               player cards are 9 and 9 dealer card is 5 
+                  given the user input deck composition,
+                       here are the dealer finish,
+     and player win minus loss expectations for best stand strategy,
+  double down, surrender, split and insurance options where applicable.
+ 
+      17      18      19      20      21      bust   
+   5  11.993  12.758  12.192  10.699  10.784  41.574 
+total hands accounted for are 100.000% of all possible
+18/A7 stand strategy yields a win minus loss expectation of 0.1989
+double down strategy yields a win minus loss expectation of-1.1813
+ 9  9 split strategy yields a win minus loss expectation of 0.3505
+
+ 9  9 split is found to be the optimal strategy. 
+
+               player cards are 9 and 9 dealer card is 4 
+                  given the user input deck composition,
+                       here are the dealer finish,
+     and player win minus loss expectations for best stand strategy,
+  double down, surrender, split and insurance options where applicable.
+ 
+      17      18      19      20      21      bust   
+   4  12.806  11.785  12.506  12.009  11.750  39.143 
+total hands accounted for are 100.000% of all possible
+18/A7 stand strategy yields a win minus loss expectation of 0.1568
+double down strategy yields a win minus loss expectation of-1.1958
+ 9  9 split strategy yields a win minus loss expectation of 0.2586
+
+ 9  9 split is found to be the optimal strategy. 
+
+               player cards are 9 and 9 dealer card is 3 
+                  given the user input deck composition,
+                       here are the dealer finish,
+     and player win minus loss expectations for best stand strategy,
+  double down, surrender, split and insurance options where applicable.
+ 
+      17      18      19      20      21      bust   
+   3  12.676  13.567  12.773  12.683  12.055  36.245 
+total hands accounted for are 100.000% of all possible
+18/A7 stand strategy yields a win minus loss expectation of 0.1141
+double down strategy yields a win minus loss expectation of-1.2781
+ 9  9 split strategy yields a win minus loss expectation of 0.1753
+
+ 9  9 split is found to be the optimal strategy. 
